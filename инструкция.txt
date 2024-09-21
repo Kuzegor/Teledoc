@@ -1,0 +1,5 @@
+1 Создать БД в MS SQL Server (без таблиц)
+2 Заменить строку подключения в appsettings.json на свою
+3 В Package Manager Console выполнить 2 команды: 
+add-migration migrationName
+update-database
